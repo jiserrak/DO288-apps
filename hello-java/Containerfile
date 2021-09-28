@@ -25,7 +25,6 @@ USER  1001
 
 # Run the fat JAR
 CMD   /opt/app-root/bin/run-app.sh
-                                                                                                   
-                                                                                                       
-"~/DO288/solutions/design-container/Containerfile" 27L, 791C                          21,0-1        All
+                                                           
+                                                                          
 
